@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1669815572 source:c:\users\franco\documents\2do.parcial.labo\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1669752312 c:\users\franco\documents\2do.parcial.labo\linkedlist.h
+
+1669815664 source:c:\users\franco\documents\2do.parcial.labo\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"controller.h"
+
+1669815457 c:\users\franco\documents\2do.parcial.labo\controller.h
+	"LinkedList.h"
+	"movies.h"
+
+1669814157 c:\users\franco\documents\2do.parcial.labo\movies.h
+
+1669814762 source:c:\users\franco\documents\2do.parcial.labo\movies.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"movies.h"
+
+1669815312 source:c:\users\franco\documents\2do.parcial.labo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"movies.h"
+	"controller.h"
+
